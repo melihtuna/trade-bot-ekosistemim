@@ -13,7 +13,7 @@ Ekosistemle ilgili detaylı anlatımı aşağıdan bulabilirsiniz: https://mediu
 
 #Projenin Kullanımı
 
-1- Proje içerisindeki robotlar MSSQL veritabanı ile işlem yapmaktadır. Robotları çalışrımadan önce BotDbScript.sql scriptini kullanarak sql sunucunuzda veri tabanını oluşturun.
+1- Proje içerisindeki robotlar MSSQL veritabanı ile işlem yapmaktadır. Robotları çalıştırmadan önce BotDbScript.sql scriptini kullanarak sql sunucunuzda veri tabanını oluşturun.
 
 2- 3 projenin de app.config dosyasındaki connectionString alanlarını kendi bağlantınıza göre değiştirin.
 
