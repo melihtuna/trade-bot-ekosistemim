@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/trade-bot-ekosistemim/.vs/trade-bot-ekosistemim/v16/Server/sqlite3
